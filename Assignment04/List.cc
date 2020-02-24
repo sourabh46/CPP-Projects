@@ -17,7 +17,7 @@ List::List(char input[], int inputSize)
     length = inputSize;
     for(i = 0; i < inputSize; i++)
     {
-        content[i] = input[i];      /**< strcpy(array, m) should not be used, since input[] might not be null terminating */
+        content[i] = input[i];      /**< strcpy(content, input) should not be used, since input[] might not be null terminating */
     }
 }
 
