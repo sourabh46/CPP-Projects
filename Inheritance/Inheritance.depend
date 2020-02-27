@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1582537654 source:c:\users\soura\documents\github\cpp-projects\inheritance\supervisor.cc
+	"Supervisor.h"
+
+1582539239 c:\users\soura\documents\github\cpp-projects\inheritance\supervisor.h
+	"Worker.h"
+
+1582539189 c:\users\soura\documents\github\cpp-projects\inheritance\worker.h
+	"Employee.h"
+
+1582539187 c:\users\soura\documents\github\cpp-projects\inheritance\employee.h
+	<string.h>
+	<iostream>
+
+1582537697 source:c:\users\soura\documents\github\cpp-projects\inheritance\worker.cc
+	"Worker.h"
+
+1582537744 source:c:\users\soura\documents\github\cpp-projects\inheritance\employee.cc
+	<iostream>
+	"Employee.h"
+
+1582539276 source:c:\users\soura\documents\github\cpp-projects\inheritance\main.cpp
+	"Worker.h"
+	"Supervisor.h"
+

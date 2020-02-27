@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582558747 source:c:\users\soura\documents\github\cpp-projects\list\main.cpp
+	"List.h"
+
+1582557879 c:\users\soura\documents\github\cpp-projects\list\list.h
+
+1582559029 source:c:\users\soura\documents\github\cpp-projects\list\list.cc
+	<iostream>
+	"List.h"
+

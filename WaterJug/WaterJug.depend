@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1582553225 source:c:\users\soura\documents\github\cpp-projects\waterjug\waterjug.cc
+	<iostream>
+	"WaterJug.h"
+
+1582551951 c:\users\soura\documents\github\cpp-projects\waterjug\waterjug.h
+
+1582552395 source:c:\users\soura\documents\github\cpp-projects\waterjug\main.cpp
+	<iostream>
+	"WaterJug.h"
+
