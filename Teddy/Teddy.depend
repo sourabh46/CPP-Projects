@@ -1,23 +1,11 @@
 # depslib dependency file v1.0
-1582232305 source:c:\users\soura\documents\github\cpp-projects\teddy\main.cpp
+1612263039 source:c:\users\soura\documents\github\cpp-projects\teddy\main.cpp
 	<iostream>
 	"Teddy.h"
 
 1582232447 c:\users\soura\documents\github\cpp-projects\teddy\teddy.h
 
-1582231634 source:c:\users\soura\documents\github\cpp-projects\teddy\teddy.cc
-	<stdlib.h>
-	<iostream>
-	<cstring>
-	"Teddy.h"
-
-1582232305 source:c:\users\soura\documents\github\cpp-projects\teddy\main.cpp
-	<iostream>
-	"Teddy.h"
-
-1582232447 c:\users\soura\documents\github\cpp-projects\teddy\teddy.h
-
-1582231634 source:c:\users\soura\documents\github\cpp-projects\teddy\teddy.cc
+1612263354 source:c:\users\soura\documents\github\cpp-projects\teddy\teddy.cc
 	<stdlib.h>
 	<iostream>
 	<cstring>

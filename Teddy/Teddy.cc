@@ -60,6 +60,8 @@ void Teddy::Sick(int n)
     }
     else
     {
+    	free(name);
+    	free(color);
         cout<<name<<"has died of sickness"<<endl;
     }
 }
